@@ -8,7 +8,7 @@
 
 <body>
 
-<p> Eu sou <strong>Corinthians</strog> </p> 
+<p> Eu sou <strong>Corinthians e <i>amo a carol</i> </strog> </p> 
 
 </body>
 
